@@ -13,4 +13,4 @@ Problemas encontrados:
 1. El speech_recognition (libreria) es muy lento, le cuesta reconocer ciertas palabras.
 2. Al utilizar jupyter labs en remoto encuentro problemas de hacer run a reconocimientos de teclas.
 3. El os o subprocesos no me permite mandar comandos como administrador.
-
+4. El profesor me elimino el usuario de la base de datos asi que cree una base de datos en local.
